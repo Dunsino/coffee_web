@@ -46,7 +46,8 @@ const AppBanner = () => {
               }}
               className="text-center sm:px-20"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis{" "}
+              Coffee cafe app makes getting around the virtual experience of the
+              cafe a sweet one.{" "}
             </motion.p>
             {/* images link */}
             <div className="flex justify-center items-center gap-4">

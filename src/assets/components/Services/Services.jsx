@@ -8,19 +8,20 @@ const servicesData = [
     id: 1,
     image: Coffee1,
     title: "Black coffee",
-    subtitle: "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    subtitle: "Coffee with nothing added - no cream, no milk, no sweetener.",
   },
   {
     id: 2,
     image: Coffee3,
     title: "Hot coffee",
-    subtitle: "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    subtitle: "Prepared from roasted beans that have been ground up.",
   },
   {
     id: 3,
     image: Coffee1,
     title: "Cold coffee",
-    subtitle: "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    subtitle:
+      "Iced coffee beverage served cold - serving it over ice or in cold milk after brewing the coffee normally.",
   },
 ];
 

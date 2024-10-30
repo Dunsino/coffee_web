@@ -49,12 +49,11 @@ const Hero = () => {
                 className="relative"
               >
                 <div className="relative z-10 space-y-4">
-                  <h1 className="text-2xl">Black Lifestyle Lovers,</h1>
+                  <h1 className="text-2xl">Dark Lifestyle Lovers,</h1>
                   <h1 className="text-sm opacity-55 leading-loose">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Inventore facilis quas quis voluptate pariatur, veniam,
-                    nobis ipsum nobis ipsum calcum firn yufy wfuir uirf a
-                    iusfui.
+                    Black is often associated with elegance and sophistication,
+                    making it a timeless choice in design. It represents mystery
+                    and depth, evoking a sense of the unknown.
                   </h1>
                 </div>
                 <div className="absolute -top-6 -left-10 w-[250px] h-[190px] bg-gray-700/25"></div>
