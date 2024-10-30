@@ -119,15 +119,14 @@ const Hero = () => {
                 className="text-lightOrange mt-[100px] md:mt-0 p-4 space-y-28"
               >
                 <h1 className="opacity-0 text-7xl font-bold leading-tight ml-14">
-                  Blvck Tumbler
+                  The Tumbler
                 </h1>
                 <div className="relative">
                   <div className="relative z-10 space-y-4">
                     <h1 className="text-2xl">Blvck Tumbler</h1>
                     <h1 className="text-sm opacity-55 leading-loose">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Inventore facilis quas quis voluptate pariatur, veniam,
-                      nobis ipsum.
+                      The Tumbler comes as a coffee case that matches the
+                      aesthetic that black gives.
                     </h1>
                   </div>
                   <div className="absolute -top-6 -right-10 w-[250px] h-[190px] bg-darkGray/50"></div>
